@@ -1,0 +1,23 @@
+{
+  "name": "calculate-time-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaskar Roy",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibhskr/calculate-time-date.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/ibhskr/calculate-time-date/issues"
+  },
+  "homepage": "https://github.com/ibhskr/calculate-time-date#readme",
+  "description": ""
+}
